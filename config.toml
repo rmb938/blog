@@ -41,15 +41,15 @@ canonifyURLs = true
   loadFavicon          = false
   faviconVersion       = ""
   # Sets Social Share links to appear on posts
-  socialShare          = false
+  socialShare          = true
   # Sets specific share to appear on posts (default behavior is to appear)
   socialShareTwitter   = true
   socialShareGoogleplus = true
   socialShareFacebook  = true
   socialShareReddit    = true
   socialShareLinkedin  = true
-  socialShareStumbleupon = true
-  socialSharePinterest = true
+  socialShareStumbleupon = false
+  socialSharePinterest = false
   socialShareEmail     = true
 
   # Load custom CSS or JavaScript files. The variable is an array so that you
@@ -165,7 +165,7 @@ canonifyURLs = true
     qq             = "" # User ID Number
   instagram        = ""
   tumblr           = ""
-  twitter          = ""
+  twitter          = "rmb938"
   skype            = ""
   snapchat         = ""
   pinterest        = ""
