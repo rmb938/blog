@@ -1,4 +1,4 @@
-baseurl = "/"
+baseurl = "https://blog.rmb938.com/"
 languageCode = "en-us"
 title = "Ryan's Blog"
 theme = "hugo-future-imperfect"
